@@ -12,3 +12,20 @@
     height: 100vh;
     min-height: 600px;
 }
+.barra {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+/** Navegacion **/
+.navegacion a {
+    color:white;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.navegacion a:last-of-type {
+    
+}
